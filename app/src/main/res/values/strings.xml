@@ -2,6 +2,10 @@
     <string name="app_name">DetailPage</string>
 
 
+    <string name="one">Intro</string>
+    <string name="two">Tech</string>
+    <string name="three">Team</string>
+
     <!--detail description string-->
     <string name="introduction">IntroDuction</string>
     <string name="technology_used">Technology used</string>
@@ -72,5 +76,8 @@
         data to identify various types of patterns.The purpose of market basket analysis is to determine what products
         customers purchase together.  It takes its name from the idea of customers throwing all their purchases into a
         shopping cart (a "market basket") during grocery shopping.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
